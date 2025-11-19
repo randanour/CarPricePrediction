@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/pc/OneDrive/Desktop/github M.mohamed/SAIR/Regression/regressionproject/mlruns/962952886362501963/models/m-425e69e668254028b9c8e699c19b8d0f/artifacts
+creation_timestamp: 1762890431417
+experiment_id: '962952886362501963'
+last_updated_timestamp: 1762890435871
+model_id: m-425e69e668254028b9c8e699c19b8d0f
+model_type: null
+name: model
+source_run_id: 52204709a9794766b1d58aeb8179e652
+status: 2
+status_message: null

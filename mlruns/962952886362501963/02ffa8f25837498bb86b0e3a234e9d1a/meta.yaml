@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/pc/OneDrive/Desktop/github M.mohamed/SAIR/Regression/regressionproject/mlruns/962952886362501963/02ffa8f25837498bb86b0e3a234e9d1a/artifacts
+end_time: 1762887889283
+entry_point_name: ''
+experiment_id: '962952886362501963'
+lifecycle_stage: active
+run_id: 02ffa8f25837498bb86b0e3a234e9d1a
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762887882294
+status: 3
+tags: []
+user_id: pc

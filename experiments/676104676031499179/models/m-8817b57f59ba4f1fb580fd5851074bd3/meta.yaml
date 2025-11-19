@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/pc/OneDrive/Desktop/github M.mohamed/SAIR/Regression/regressionproject/experiments/676104676031499179/models/m-8817b57f59ba4f1fb580fd5851074bd3/artifacts
+creation_timestamp: 1762796758289
+experiment_id: '676104676031499179'
+last_updated_timestamp: 1762796765167
+model_id: m-8817b57f59ba4f1fb580fd5851074bd3
+model_type: null
+name: tuned_model
+source_run_id: 3dcb6edee69645fd8d682b78c933cac0
+status: 2
+status_message: null

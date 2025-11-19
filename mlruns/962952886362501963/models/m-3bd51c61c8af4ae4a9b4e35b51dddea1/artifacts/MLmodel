@@ -1,0 +1,22 @@
+artifact_path: file:c:/Users/pc/OneDrive/Desktop/github M.mohamed/SAIR/Regression/regressionproject/mlruns/962952886362501963/models/m-3bd51c61c8af4ae4a9b4e35b51dddea1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.0
+model_id: m-3bd51c61c8af4ae4a9b4e35b51dddea1
+model_size_bytes: 1113068
+model_uuid: m-3bd51c61c8af4ae4a9b4e35b51dddea1
+prompts: null
+run_id: 51494ff331994dfaac5b62123f3a265b
+utc_time_created: '2025-11-11 19:41:09.255918'

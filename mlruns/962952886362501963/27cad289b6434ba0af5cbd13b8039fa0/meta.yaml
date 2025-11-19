@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/pc/OneDrive/Desktop/github M.mohamed/SAIR/Regression/regressionproject/mlruns/962952886362501963/27cad289b6434ba0af5cbd13b8039fa0/artifacts
+end_time: 1762890068743
+entry_point_name: ''
+experiment_id: '962952886362501963'
+lifecycle_stage: active
+run_id: 27cad289b6434ba0af5cbd13b8039fa0
+run_name: Linear_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762890056179
+status: 3
+tags: []
+user_id: pc
